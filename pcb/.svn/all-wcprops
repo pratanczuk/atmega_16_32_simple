@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/307/trunk/projects/atmega_16_32_simple/pcb
+END
+w_smd_cap.mod
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/292/trunk/projects/atmega_16_32_simple/pcb/w_smd_cap.mod
+END
+atmega_16_32_simple.ses
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/236/trunk/projects/atmega_16_32_simple/pcb/atmega_16_32_simple.ses
+END
+atmega_16_32_simple.bak
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/305/trunk/projects/atmega_16_32_simple/pcb/atmega_16_32_simple.bak
+END
+w_misc_comp.mod
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/216/trunk/projects/atmega_16_32_simple/pcb/w_misc_comp.mod
+END
+atmega_16_32_simple-cache.bak
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/305/trunk/projects/atmega_16_32_simple/pcb/atmega_16_32_simple-cache.bak
+END
+atmega_16_32_simple.000
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/302/trunk/projects/atmega_16_32_simple/pcb/atmega_16_32_simple.000
+END
+atmega_16_32_simple.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/303/trunk/projects/atmega_16_32_simple/pcb/atmega_16_32_simple.pro
+END
+$savepcb.000
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/301/trunk/projects/atmega_16_32_simple/pcb/$savepcb.000
+END
+atmega_16_32_simple.lib
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/306/trunk/projects/atmega_16_32_simple/pcb/atmega_16_32_simple.lib
+END
+atmega_16_32_simple-cache.lib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/305/trunk/projects/atmega_16_32_simple/pcb/atmega_16_32_simple-cache.lib
+END
+atmega_16_32_simple.brd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/302/trunk/projects/atmega_16_32_simple/pcb/atmega_16_32_simple.brd
+END
+$savepcb.brd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/301/trunk/projects/atmega_16_32_simple/pcb/$savepcb.brd
+END
+atmega_16_32_simple.sch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/305/trunk/projects/atmega_16_32_simple/pcb/atmega_16_32_simple.sch
+END
+atmega_16_32_simple.cmp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/297/trunk/projects/atmega_16_32_simple/pcb/atmega_16_32_simple.cmp
+END
+atmega_16_32_simple.mod
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/307/trunk/projects/atmega_16_32_simple/pcb/atmega_16_32_simple.mod
+END
+w_misc_comp.mdc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/216/trunk/projects/atmega_16_32_simple/pcb/w_misc_comp.mdc
+END
+atmega_16_32_simple.dsn
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/236/trunk/projects/atmega_16_32_simple/pcb/atmega_16_32_simple.dsn
+END
+atmega_16_32_simple.net
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/297/trunk/projects/atmega_16_32_simple/pcb/atmega_16_32_simple.net
+END
